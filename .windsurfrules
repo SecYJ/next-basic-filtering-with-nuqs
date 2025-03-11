@@ -1,0 +1,2 @@
+- Use pnpm instead of npm
+- Use this command to install shadcn ui: pnpm dlx shadcn@latest add <component-name>
